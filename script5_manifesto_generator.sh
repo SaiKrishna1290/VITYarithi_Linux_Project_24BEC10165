@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 5: Open Source Manifesto Generator
-# Author: Tushar Kalyani
+# Author: A.Sai Krishnam Raju
 # Course: Open Source Software
 
 echo "Answer the following questions to generate your Open Source Manifesto."
