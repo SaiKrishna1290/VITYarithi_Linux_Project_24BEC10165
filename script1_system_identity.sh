@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Tushar Kalyani
+# Author: A.Sai Krishnam Raju
 # Course: Open Source Software
 
 # Variables
-STUDENT_NAME="Ajinkya Wasnik"
+STUDENT_NAME="A.Sai Krishnam Raju"
 SOFTWARE_CHOICE="Python"
 
 # System information
