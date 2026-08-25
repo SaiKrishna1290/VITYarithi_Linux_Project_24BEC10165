@@ -8,7 +8,7 @@
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 
 echo "Directory Audit Report"
-echo "-------------------------------------"
+echo "------------------------------------------"
 
 for DIR in "${DIRS[@]}"
 do
